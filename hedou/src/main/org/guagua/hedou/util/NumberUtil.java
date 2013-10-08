@@ -16,7 +16,7 @@ public class NumberUtil
 {
     
     /**
-     * 对double数据进行取精度.
+     * 对double数据进行取精度.1
      * 
      * @param value double数据.
      * @param scale 精度位数(保留的小数位数).
