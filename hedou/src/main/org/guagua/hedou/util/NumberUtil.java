@@ -14,6 +14,7 @@ import java.math.BigDecimal;
  */
 public class NumberUtil
 {
+    
     /**
      * 对double数据进行取精度.
      * 
